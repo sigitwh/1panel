@@ -2,7 +2,7 @@
 Cara install 1Panel 
 
 # install docker
-# Add Docker's official GPG key:
+
 sudo apt update
 sudo apt install ca-certificates curl
 sudo install -m 0755 -d /etc/apt/keyrings
