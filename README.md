@@ -2,6 +2,7 @@
 Cara install 1Panel 
 
 # install docker
+https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
 
 sudo apt update
 sudo apt install ca-certificates curl
@@ -25,4 +26,6 @@ sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin dock
 sudo systemctl status docker
 
 # install 1panel
+https://1panel.pro/en
+
 bash -c "$(curl -sSL https://resource.1panel.pro/quick_start.sh)"
